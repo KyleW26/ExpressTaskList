@@ -131,4 +131,4 @@ dist
 
 *.env
 
-mongo-data
+mongo-data/
